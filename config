@@ -6,8 +6,9 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Ashwinnethan64-maker/valentines-web-1
+	url = https://github.com/Ashwinnethan64-maker/valentines-web-3
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
+	vscode-merge-base = origin/main
